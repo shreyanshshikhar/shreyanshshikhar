@@ -25,7 +25,7 @@ I've worked on a variety of projects that demonstrate my proficiency in HTML, CS
 
 ## 📫 How to Reach Me
 - **GitHub:** [@shreyanshshikhar](https://github.com/shreyanshshikhar)
-- **LinkedIn:** [Shreyansh Shikhar](https://www.linkedin.com/in/shreyanshshikhar)
+- **LinkedIn:** [Shreyansh Shikhar](https://www.linkedin.com/in/shreyansh-shikhar-srivastava/)
 - **Email:** shikharshreyansh1@gmail.com
 
 Let's connect and collaborate to create amazing things together!
