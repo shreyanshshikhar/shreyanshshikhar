@@ -6,6 +6,7 @@ Hello! I'm Shreyansh Shikhar, and I have a strong passion for Front-End Developm
 - HTML
 - CSS (including frameworks like Bootstrap and Tailwind)
 - JavaScript
+- React
 - Angular
 
 ## 🌱 What I'm Learning
@@ -26,7 +27,7 @@ I've worked on a variety of projects that demonstrate my proficiency in HTML, CS
 ## 📫 How to Reach Me
 - **GitHub:** [@shreyanshshikhar](https://github.com/shreyanshshikhar)
 - **LinkedIn:** [Shreyansh Shikhar](https://www.linkedin.com/in/shreyansh-shikhar-srivastava/)
-- **Email:** shikharshreyansh1@gmail.com
+- **Email:** shreyanshshikharsrivastava@gmail.com
 
 Let's connect and collaborate to create amazing things together!
 
